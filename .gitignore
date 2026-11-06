@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Raw data is not redistributed (see data/README.md)
+data/raw/*
+!data/raw/.gitkeep
+
+# Throwaway output from running on synthetic data
+figures_sample/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
