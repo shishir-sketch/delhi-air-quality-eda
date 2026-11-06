@@ -1,4 +1,4 @@
-# 🌫️ Breathing Numbers
+# Delhi Air Quality Analysis 
 
 **An exploratory data analysis of five years of daily air quality in Indian cities (2015 – 2020).**
 
